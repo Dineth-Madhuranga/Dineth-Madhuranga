@@ -6,19 +6,19 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Dineth Madhuranga'
+	current_edu = "BT(Hons)ICT"
+    currently_learning = "Javascript/Java"
+    fun_fact = "I don't have fun fact"
 	hobbies = [
 				'Music',
-                         'Chilling',
-			 	'Gaming',
+                         	'Chilling',
+			 	'Tv Series',
 				'Sci-Fi Movies'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Colombo_Srilanka()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
