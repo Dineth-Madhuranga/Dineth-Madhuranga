@@ -12,7 +12,7 @@
     fun_fact = "I don't have fun fact"
 	hobbies = [
 				'Music',
-                         	'Chilling',
+ 			'Chilling',
 			 	'Tv Series',
 				'Sci-Fi Movies'
 			]
