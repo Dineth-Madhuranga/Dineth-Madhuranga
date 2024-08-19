@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Dineth</h1>
-<h3 align="center">A ICT Undergraduate from Sri Lanka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth-madhuranga&label=Profile%20views&color=0e75b6&style=flat" alt="dineth-madhuranga" /> </p>
 
-- 🔭 I’m currently working on **Fiverr as Freelancer**
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-- 🌱 I’m currently learning **Full stack development**
+## Who am I?
 
-- 👨‍💻 All of my projects are available at [dinethm.me](dinethm.me)
-
-- 📫 How to reach me **dinethlaksitha@gmail.com**
+ ```python
+  class WhoAmI:
+    user = 'Jaydeep Yadav'
+	current_edu = "CSIT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Chhattisgarh_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
 
 ---
 
